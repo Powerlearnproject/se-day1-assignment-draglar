@@ -2,7 +2,7 @@
 # SE_Day1
 Software Engineering Day1 Assignment
 
-#Part 1: Introduction to Software Engineering
+# Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
 
@@ -31,7 +31,7 @@ What are some common challenges faced by software engineers? Provide strategies 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
 
-#Part 2: Introduction to AI and Prompt Engineering
+# Part 2: Introduction to AI and Prompt Engineering
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
